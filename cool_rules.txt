@@ -1,0 +1,65 @@
+Stagnant Sponge
+B3456/S4567
+
+Unstable spaceship world
+B2/S3
+
+Jewel Mine
+B0/S34678
+
+Jewel Mine 2
+B0/S1234678
+
+Maze
+B01/S1234678
+
+Spongeish
+B0267/S34567
+
+Octagon
+B0/S123678
+
+Jewel Mine Octagon
+B0/S3678
+
+Lines
+B0/S1234567
+
+Unstable Square
+B0/S24567
+
+Spooky Square
+B0/S0157
+
+Stableish Octagon
+B0/S2456
+
+Less Stable Octagon
+B0/S256
+
+Spooky Octagon
+B0/S0156
+
+Fractal Octagon
+B0/S012346
+
+Fractal Square
+B0/S0123468
+
+More Fractal Square
+B0/S0123458
+
+Fractalish Square
+B0/S012368
+
+More Fractalish Square
+B0/S01234568
+
+Fractal Diamond
+B0/S01245
+
+More Fractal Diamond
+B0/S0125
+
+Spikes
+B05/S1234678
